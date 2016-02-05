@@ -235,7 +235,7 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@iwals [Founder]
+@mahdib9 [Founder]
 @imandaneshi [Developer]
 @Rondoozle [Developer]
 @seyedan25 [Manager]
@@ -410,9 +410,9 @@ Returns text of [value]
 !clean [modlist|rules|about]
 Will clear [modlist|rules|about] and set it to nil
 
-!res [username]
+!res [180087690]
 returns user id
-"!res @username"
+"!res @mahdib9"
 
 !log
 will return group logs
