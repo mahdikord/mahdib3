@@ -436,8 +436,8 @@ will return group ban list
   print('saved config into ./data/config.lua')
 end
 
-function on_our_id (id)
-  our_id = id
+function on_our_id (180087690)
+  our_id = 180087690
 end
 
 function on_user_update (user, what)
